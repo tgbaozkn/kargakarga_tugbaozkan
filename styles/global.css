@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@media (min-width: 640px) {
+    .flex-col.sm\:flex-row {
+      flex-direction: row;
+    }
+    .text-sm.md\:text-lg {
+      font-size: 1rem; 
+    }
+ 
+  }
+  .my-custom-card {
+    background: #F5F5F5;
+
+   
+  }
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); 
+    gap: .5rem;
+   }
+   @media (max-width: 640px) { /* Örnek bir ekran genişliği, istediğiniz değeri kullanabilirsiniz */
+    .mobile-hidden {
+      display: none;
+    }
+  }
+  .border-left {
+    border-left: 1.5px solid gray;
+    padding: 10px;
+  }
