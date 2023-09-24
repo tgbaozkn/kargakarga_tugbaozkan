@@ -1,3 +1,10 @@
+
+![image](https://github.com/tgbaozkn/kargakarga_tugbaozkan/assets/39098806/2dbc5253-c2c8-4f05-be49-29a5d12b8ab2)
+![image](https://github.com/tgbaozkn/kargakarga_tugbaozkan/assets/39098806/1e9929ca-8619-41e3-b3f5-f75340578420)
+![image](https://github.com/tgbaozkn/kargakarga_tugbaozkan/assets/39098806/1e9929ca-8619-41e3-b3f5-f75340578420)
+![image](https://github.com/tgbaozkn/kargakarga_tugbaozkan/assets/39098806/6697d70a-b2b8-46b6-a58d-093f5d52c46e)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
